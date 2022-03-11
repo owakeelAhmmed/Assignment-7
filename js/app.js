@@ -93,7 +93,6 @@ const createPost = (post) => {
                     <i class="fa-solid fa-comment"></i>
                   </button>
                   
-
                   <div class="post__indicators"></div>
 
                   <button class="post__button post__button--align-right" onclick="reportPost(${
